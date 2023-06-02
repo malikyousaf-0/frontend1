@@ -1,6 +1,6 @@
 html
 css 
-bootstrap
+bootstrap5
 sass
 javascript
 react
