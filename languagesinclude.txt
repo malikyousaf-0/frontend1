@@ -4,3 +4,5 @@ bootstrap5
 sass
 javascript
 react
+node js 
+mongo db
